@@ -1,8 +1,9 @@
 # ToDo-List
 
 Project: ToDo-List
-Programmers: 
-	- PoTaSteve 
+Programmers:
+
+	- PoTaSteve
 	- GiacomoPauletti giacomo.pauletti@gmail.com
 
 ## Description
